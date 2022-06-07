@@ -1,0 +1,29 @@
+/* body.exercicio {
+
+}
+
+.principal {
+   
+} */
+
+
+.conteudo {
+    font-size: 2rem;
+}
+
+.conteudo .titulo {
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 0px;
+}
